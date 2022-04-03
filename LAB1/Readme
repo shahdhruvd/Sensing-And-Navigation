@@ -1,0 +1,2 @@
+The Directory has src folder which contains the lab01 package that has the scripts folder which contains the driver.py file
+The Analysis scripts folder has 4 images of graphs,2 csv files and the DataAnalysis.py file which can be used for multiple data columns by changing the variables. 
